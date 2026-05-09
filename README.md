@@ -1,59 +1,52 @@
-<h1 align="center">Omar Maher</h1>
-<h3 align="center">AlBigO · 🔐 Offensive Security Enthusiast | Web App Security</h3>
-
-<p align="center">
-  Breaking things ethically — one vulnerability at a time.
-</p>
-
-<p align="center">
-  <a href="omarmaherofficial@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/omarmohamedmaher"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
+<h1>Omar Maher <span>· AlBigO</span></h1>
+<h4>🔐 Offensive Security Enthusiast | CTF Player | Cyber Security Student</h4>
+<p><em>I study how web apps break — then document everything I find.</em></p>
 
 ## 👾 About Me
 
-🎯 Focused on **web application security** — finding what others miss.
-🧪 Actively practicing on **HackTheBox**, **TryHackMe**, and **Bug Bounty** programs.
-📖 Currently working toward my **eCPPT** certification, with OSCP on the roadmap.
-🌍 Open to **internships** and **penetration testing** roles.
+🎯 &nbsp;Focused on **Web Application Security**
+
+🧪 &nbsp;Practicing on **HackTheBox**, **TryHackMe**, **PortSwigger Web Academy**, and **CTFtime** events.
+
+📖 &nbsp;Working toward my **eCPPT** certification, with OSEP is next on the roadmap.
+
+🐛 &nbsp;Participating in bug bounty programs and CTF events on **HackerOne** and **CTFtime**.
+
+🌍 &nbsp;Open to **internships** and **penetration testing** roles.
 
 ---
 
-## 🛠️ Tools & Tech
+## 🧰 Tools & Tech
 
-**Recon & Enumeration**
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=nmap&logoColor=white)
-![Gobuster](https://img.shields.io/badge/Gobuster-black?style=flat-square)
-![TheHarvester](https://img.shields.io/badge/TheHarvester-black?style=flat-square)
+![Nmap](https://img.shields.io/badge/Nmap-1D9E75?style=for-the-badge&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-1D9E75?style=for-the-badge&logoColor=white)
+![Subfinder](https://img.shields.io/badge/Subfinder-1D9E75?style=for-the-badge&logoColor=white)
+![Amass](https://img.shields.io/badge/Amass-0F6E56?style=for-the-badge&logoColor=white)
+![httpx](https://img.shields.io/badge/httpx-1D9E75?style=for-the-badge&logoColor=white)
+![waybackurls](https://img.shields.io/badge/waybackurls-0F6E56?style=for-the-badge&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-378ADD?style=for-the-badge&logoColor=white)
+![feroxbuster](https://img.shields.io/badge/feroxbuster-185FA5?style=for-the-badge&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-D85A30?style=for-the-badge&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-D85A30?style=for-the-badge&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-7F77DD?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-BA7517?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-854F0B?style=for-the-badge&logo=gnubash&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-5F5E5A?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
-**Web App Testing**
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square)
-![SQLmap](https://img.shields.io/badge/SQLmap-black?style=flat-square)
-![ffuf](https://img.shields.io/badge/ffuf-black?style=flat-square)
+**🏋️ Practice Platforms**
 
-**Scripting**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-639922?style=for-the-badge&logo=hackthebox&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-3B6D11?style=for-the-badge&logo=tryhackme&logoColor=white)
+![PortSwigger](https://img.shields.io/badge/PortSwigger_Web_Academy-639922?style=for-the-badge&logoColor=white)
+![CTFtime](https://img.shields.io/badge/CTFtime-3B6D11?style=for-the-badge&logoColor=white)
 
-**OS & Labs**
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
-
----
 
 ## 📂 Projects & Write-ups
 
 > 🚧 Building in public — projects and CTF write-ups coming soon.
+> I only push what I've actually done.
+> Every repo here is backed by a real lab, a real CTF, or a real finding —
+> no copy-paste walkthroughs, no theory dumps.
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlBigO&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlBigO&theme=github-dark-blue&hide_border=true" width="48%"/>
-</p>
