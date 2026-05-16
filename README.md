@@ -12,8 +12,6 @@
 
 ⚡ &nbsp;Participating in bug bounty programs and CTF events on **HackerOne** and **CTFtime**.
 
-⚡ &nbsp;Open to **internships** and **penetration testing** roles.
-
 ---
 
 ## - Tools & Tech
