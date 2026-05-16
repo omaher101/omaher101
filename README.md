@@ -2,21 +2,21 @@
 <h4>🔐 Offensive Security Enthusiast | CTF Player | Cyber Security Student</h4>
 <p><em>I study how web apps break — then document everything I find.</em></p>
 
-## 👾 About Me
+## - About Me
 
-🎯 &nbsp;Focused on **Web Application Security**
+⚡ &nbsp;Focused on **Web Application Security**
 
-🧪 &nbsp;Practicing on **HackTheBox**, **TryHackMe**, **PortSwigger Web Academy**, and **CTFtime** events.
+⚡ &nbsp;Practicing on **HackTheBox**, **TryHackMe**, **PortSwigger Web Academy**, and **CTFtime** events.
 
-📖 &nbsp;Working toward my **eCPPT** certification, with OSEP is next on the roadmap.
+⚡ &nbsp;Working toward my **eCPPT** certification, with OSEP is next on the roadmap.
 
-🐛 &nbsp;Participating in bug bounty programs and CTF events on **HackerOne** and **CTFtime**.
+⚡ &nbsp;Participating in bug bounty programs and CTF events on **HackerOne** and **CTFtime**.
 
-🌍 &nbsp;Open to **internships** and **penetration testing** roles.
+⚡ &nbsp;Open to **internships** and **penetration testing** roles.
 
 ---
 
-## 🧰 Tools & Tech
+## - Tools & Tech
 
 ![Nmap](https://img.shields.io/badge/Nmap-1D9E75?style=for-the-badge&logoColor=white)
 ![Nikto](https://img.shields.io/badge/Nikto-1D9E75?style=for-the-badge&logoColor=white)
@@ -34,7 +34,7 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-5F5E5A?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
-**🏋️ Practice Platforms**
+**- Practice Platforms**
 
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-639922?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-3B6D11?style=for-the-badge&logo=tryhackme&logoColor=white)
@@ -42,7 +42,7 @@
 ![CTFtime](https://img.shields.io/badge/CTFtime-3B6D11?style=for-the-badge&logoColor=white)
 
 
-## 📂 Projects & Write-ups
+## - Projects & Write-ups
 
 > 🚧 Building in public — projects and CTF write-ups coming soon.
 > I only push what I've actually done.
