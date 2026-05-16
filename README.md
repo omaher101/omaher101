@@ -1,6 +1,6 @@
 <h1>Omar Maher <span>· AlBigO</span></h1>
 <h4>🔐 Offensive Security Enthusiast | CTF Player | Cyber Security Student</h4>
-<p><em>I study how web apps break — then document everything I find.</em></p>
+<p><em>I study how apps break — then document everything I find.</em></p>
 
 ## - About Me
 
