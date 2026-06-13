@@ -1,16 +1,14 @@
 <h1>Omar Maher <span>· AlBigO</span></h1>
 <h4>🔐 Offensive Security Engineer | CTF Player | Cyber Security Student</h4>
-<p><em>I study how apps break — then document everything I find.</em></p>
+<p><em>I study how stuff break — then document everything I find.</em></p>
 
 ## - About Me
 
 ⚡ &nbsp;Focused on **Web Application Security**
 
-⚡ &nbsp;Practicing on **HackTheBox**, **TryHackMe**, **PortSwigger Web Academy**, and **CTFtime** events.
+⚡ &nbsp;Practicing on **HackTheBox**, **TryHackMe**, and **CTFtime** events.
 
 ⚡ &nbsp;Working toward my **eCPPT** certification, with OSEP is next on the roadmap.
-
-⚡ &nbsp;Participating in bug bounty programs and CTF events on **HackerOne** and **CTFtime**.
 
 ---
 
