@@ -32,13 +32,6 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-5F5E5A?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
-## - Practice Platforms
-
-![HackTheBox](https://img.shields.io/badge/HackTheBox-639922?style=for-the-badge&logo=hackthebox&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-3B6D11?style=for-the-badge&logo=tryhackme&logoColor=white)
-![PortSwigger](https://img.shields.io/badge/PortSwigger_Web_Academy-639922?style=for-the-badge&logoColor=white)
-![CTFtime](https://img.shields.io/badge/CTFtime-3B6D11?style=for-the-badge&logoColor=white)
-
 
 ## - Projects & Write-ups
 
