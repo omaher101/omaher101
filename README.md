@@ -19,13 +19,13 @@ behind each solve, not just commands.
 
 ## Index
 
-### TryHackMe Rooms
+## TryHackMe Rooms
 
-| Room | Difficulty | OS | Category | Link |
-|---|---|---|---|---|
-|Chronicle|Medium|Linux|Web, Enumeration, Binary Exploitation|https://tryhackme.com/room/chronicle|
+| Room | Difficulty | OS | Category | Lab Link | Write-up Link | 
+|---|---|---|---|---|---|
+|Chronicle|Medium|Linux|Web, Enumeration, Binary Exploitation|[Chronicle](https://tryhackme.com/room/chronicle)|[Writeup](https://github.com/omaher101/labs_writups/blob/3a404d70185b1b4fa10be74ce752fe355c55cbed/TryHackMe/chronicle-thm.md)|
 
-### HTB Machines
+## HTB Machines
 
 | Box | Difficulty | OS | Key Technique | Link |
 |---|---|---|---|---|
