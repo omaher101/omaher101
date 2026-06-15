@@ -14,7 +14,7 @@
 
 ## 📝 Labs Writeups
 
-⚡Personal writeups from HTB and TryHackMe — focused on the reasoning
+Personal writeups from HTB and TryHackMe — focused on the reasoning
 behind each solve, not just commands.
 
 ## Index
