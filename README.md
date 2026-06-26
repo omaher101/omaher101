@@ -7,7 +7,7 @@
 
 ⚡ &nbsp;Practicing on **HackTheBox**, **TryHackMe**, and **CTF** events.
 
-⚡ &nbsp;Working toward my **eCPPT** certification, with **OSEP** is next on the roadmap.
+⚡ &nbsp;Working toward my **OSEP** certification.
 
 
 ## Projects & Write-ups
